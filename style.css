@@ -1,0 +1,28 @@
+.cereal {
+  display: flex;
+  align-items: center;
+  height: 25px;
+}
+
+.cereal .label {
+  width: 300px;
+  text-align: right;
+}
+
+.bar {
+  background: orange;
+  text-align: right;
+  padding: 3px;
+  height: 15px;
+  margin: 2px;
+}
+
+.highlightBar {
+  background-color: #0059ff;
+  color: white;
+}
+
+.highlightLabel {
+  font-weight: 700;
+  color: #0059ff;
+}
